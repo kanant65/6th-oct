@@ -16,7 +16,7 @@ public class LongestWord {
 		 
 		 String longest_word = "";
 		 String current;
-		 Scanner sc = new Scanner(new File("D:\\words.txt")); //importing file
+		 Scanner sc = new Scanner(new File("C:\Users\kanan\eclipse-workspace\javaclasses\src\com\file_handling_test\com\words.txt")); //importing file
 		
 		
 		 while (sc.hasNext()) {
